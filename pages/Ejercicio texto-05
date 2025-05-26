@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Texto 05</title>
+</head>
+<body>
+  <h1>HTML5 y CSS3</h1>
+
+  <p>El 28 de octubre de 2014 se aprobó la recomendación <abbr title="HyperText Markup Language">HTML</abbr> 5. El grupo <abbr title="Web Hypertext Application Technology Working Group">WHATWG</abbr> lideró su desarrollo.</p>
+
+  <p>Las <abbr title="Cascading Style Sheets">CSS</abbr> 3 se concibieron como módulos independientes. El <abbr title="World Wide Web Consortium">W3C</abbr> continúa su estandarización.</p>
+</body>
+</html>
