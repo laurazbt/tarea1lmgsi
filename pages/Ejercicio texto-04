@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Texto 04</title>
+</head>
+<body>
+  <h1>Chema Pamundi</h1>
+
+  <h2>Datos personales</h2>
+  <p>Dirección: C./ Luis Moya, nº 13, p. 7 - 33203 - Gijón</p>
+  <p>D.N.I.: 12.345.678-S</p>
+  <p>Correo electrónico: cpamundi@lalaboral.es</p>
+
+  <h2>Educación y formación</h2>
+  <ul>
+    <li>2015-2017: Desarrollo de Aplicaciones Web. CIFP La Laboral</li>
+    <li>2013-2015: Actividades Comerciales. CIFP La Laboral</li>
+  </ul>
+
+  <h2>Idiomas</h2>
+  <p>Inglés: Nivel Alto (C1)</p>
+</body>
+</html>
