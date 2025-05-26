@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Texto 07</title>
+</head>
+<body>
+  <h1>Siglas útiles</h1>
+
+  <dl>
+    <dt>HTML</dt>
+    <dd>Lenguaje de marcado de hipertexto</dd>
+
+    <dt>CSS</dt>
+    <dd>Hojas de estilo en cascada</dd>
+
+    <dt>W3C</dt>
+    <dd>Consorcio World Wide Web</dd>
+  </dl>
+</body>
+</html>
