@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Ejercicio texto-01</title>
+</head>
+<body>
+  <h1>Lenguajes de marcas</h1>
+  <h2>Ejercicio 1</h2>
+  <p>Este es el primer ejercicio de marcado de texto. Utilizamos etiquetas básicas como <code>&lt;h1&gt;</code>, <code>&lt;h2&gt;</code> y <code>&lt;p&gt;</code> para estructurar el contenido.</p>
+</body>
+</html>
