@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Texto 06</title>
+</head>
+<body>
+  <h1>Cita literaria</h1>
+
+  <blockquote>
+    <p>Quizás algún día recordemos esto con júbilo.</p>
+    <cite>— Virgilio, La Eneida</cite>
+  </blockquote>
+</body>
+</html>
