@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Texto 08</title>
+</head>
+<body>
+  <h1>Siglas y expresiones</h1>
+
+  <p><code>AFAIK</code> significa "As Far As I Know".</p>
+  <p><code>RTFM</code> se traduce como "Read The Fucking Manual".</p>
+  <p>También existen expresiones como <code>IMHO</code> ("In My Humble Opinion").</p>
+</body>
+</html>
