@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Ejercicio texto-02</title>
+</head>
+<body>
+  <h1>CSS: hojas de estilo en cascada</h1>
+
+  <h2>¿Qué es CSS?</h2>
+  <p>CSS es un lenguaje de hojas de estilos creado para controlar el aspecto o presentación de los documentos electrónicos definidos con HTML y XHTML.</p>
+
+  <h2>Ventajas</h2>
+  <ul>
+    <li>Se ahorra código</li>
+    <li>El código HTML es más limpio</li>
+    <li>Permite aplicar estilos de forma coherente</li>
+  </ul>
+
+  <h2>Inconvenientes</h2>
+  <ul>
+    <li>Algunos navegadores no siguen completamente los estándares</li>
+  </ul>
+</body>
+</html>
