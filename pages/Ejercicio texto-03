@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Ejercicio texto-03</title>
+</head>
+<body>
+  <h1>Lenguaje HTML</h1>
+
+  <p>HTML es un <ins>lenguaje</ins> de marcas utilizado para la creación de páginas web.</p>
+  <p>Actualmente se utiliza <del>XHTML</del> <ins>HTML5</ins> como estándar.</p>
+</body>
+</html>
